@@ -1,0 +1,96 @@
+
+.registerTitle {
+  font-size: 50px;
+
+}
+.box {
+  width:320px;
+  height:60px;
+  /* border: 3px solid rgb(17, 60, 32); */
+  padding-top: .5rem;
+  padding-left: 1.1rem;
+  margin-left: 290px;
+  margin-bottom: 90px;
+  margin-top: 20px;
+  background-color: teal;
+  color:aliceblue;
+  border-radius: .5rem;
+  
+}
+
+
+
+.box1 {
+  width:1000px;
+  height:auto;
+  border: 25px solid #c1d5ba88 ;
+  border-radius: 5rem;
+  box-shadow: 0px 15px 0px 15px rgb(184, 200, 180);
+  padding-left: 40px;
+  /* margin: auto; */
+ margin-bottom: 0px;
+}
+
+.registerForm {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.registerForm  {
+  margin: 10px 0;
+}
+
+.registerForm2  {
+ 
+    display: flex;
+  flex-direction: column;
+ 
+  
+}
+
+
+.registerInput {
+  padding: 17px;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+}
+
+.registerInput:focus {
+  outline: none;
+}
+
+.registerButton {
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: teal;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.link{
+  color:white;
+  
+}
+
+.registerLoginButton {
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  background-color: lightcoral;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  color: white;
+  border-radius: 10px;
+}
+
+.box3 {
+  width:1000px;
+  height: auto;
+
+}
